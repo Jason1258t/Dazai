@@ -1,0 +1,1 @@
+pyinstaller --onefile C:\Users\user\Desktop\питон\Дазай\dazai.py --icon=C:\Users\user\Desktop\питон\Дазай\dazai.ico
